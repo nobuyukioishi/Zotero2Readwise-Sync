@@ -54,3 +54,4 @@ This will run the automation immediately and won't impact your scheduled automat
 
 # Note
 *Keep in mind that GitHub Actions may run the scheduled automation with some delay (sometimes with one-hour delay!).*
+
