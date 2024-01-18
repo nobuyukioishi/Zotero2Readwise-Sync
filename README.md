@@ -40,6 +40,7 @@ A scheduled GitHub Action will show **scheduled** next to the deployment as can 
 ![](img/github_action_secrets.gif)
 
 
+
 # Manual Trigger
 If you want to manually trigger the automation, you can simply commit an empty message and push it to your forked repo, 
 like the following:
